@@ -90,7 +90,7 @@ const AIText = () => {
             {/* Chat Interface Image - Updated positioning */}
             <div className="w-[565px] h-[324px] absolute bottom-0">
               <img
-                src="/public/images/pic2.png"
+                src="/images/pic2.png"
                 alt="AI Chat Interface"
                 className="w-full h-full object-contain"
               />

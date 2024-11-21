@@ -49,7 +49,7 @@ const Features = () => {
       {/* Background Image */}
       <div className="absolute w-[383.37px] h-[320px] left-1/2 -translate-x-1/2 top-0">
         <img
-          src="/public/images/V.png"
+          src="/images/V.png"
           alt="Background"
           className="w-full h-full object-cover"
         />
