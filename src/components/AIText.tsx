@@ -1,5 +1,3 @@
-import React from "react";
-
 const AIText = () => {
   return (
     <section className="relative w-full overflow-hidden bg-section-gradient">
